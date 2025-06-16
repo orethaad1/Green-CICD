@@ -1,0 +1,1 @@
+aws s3api put-object --bucket green-cicd --key index.html --body index.html --acl pubic-read --content-type text/html
